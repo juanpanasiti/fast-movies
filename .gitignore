@@ -3,3 +3,4 @@ venv
 **/*.json
 .python-version
 .env
+logs/*
